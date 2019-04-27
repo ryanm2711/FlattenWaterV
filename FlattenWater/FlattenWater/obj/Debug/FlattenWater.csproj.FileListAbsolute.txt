@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\scripts\FlattenWater.dll
+C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\scripts\FlattenWater.pdb
+C:\Users\ryan2\source\repos\FlattenWater\FlattenWater\obj\Debug\FlattenWater.csproj.CoreCompileInputs.cache
+C:\Users\ryan2\source\repos\FlattenWater\FlattenWater\obj\Debug\FlattenWater.csproj.CopyComplete
+C:\Users\ryan2\source\repos\FlattenWater\FlattenWater\obj\Debug\FlattenWater.dll
+C:\Users\ryan2\source\repos\FlattenWater\FlattenWater\obj\Debug\FlattenWater.pdb

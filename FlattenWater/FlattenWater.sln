@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenWater", "FlattenWater\FlattenWater.csproj", "{F91119AB-9165-440B-8C78-8E90D9FE1A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91119AB-9165-440B-8C78-8E90D9FE1A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91119AB-9165-440B-8C78-8E90D9FE1A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91119AB-9165-440B-8C78-8E90D9FE1A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91119AB-9165-440B-8C78-8E90D9FE1A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3F3DCD-A6EE-47E1-B197-18D54B9C8490}
+	EndGlobalSection
+EndGlobal
